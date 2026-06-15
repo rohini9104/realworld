@@ -1,4 +1,4 @@
-![RealWorld Example Applications](assets/media/realworld-dual-mode.png)
+![RealWorld Example Applications](assets/media/realworld-dual-mode.svg)
 
 <p align="center" style="margin-top: 30px;">
   <img src="assets/media/frameworks.svg" alt="Frontend and Backend Frameworks" width="720"/>
