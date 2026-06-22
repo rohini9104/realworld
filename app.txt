@@ -1,3 +1,1 @@
-App name: NovaDeploy
-Version: 1.0
-Port:3000
+DB Host: localhost
