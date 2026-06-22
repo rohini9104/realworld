@@ -1,3 +1,4 @@
 Server: nginx
 Max Connections: 100
 Timeout: 30s
+SSl: enabled
